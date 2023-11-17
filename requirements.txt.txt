@@ -1,0 +1,21 @@
+# requirements.txt
+
+# Speech recognition library
+SpeechRecognition==3.8.1
+
+# Text-to-speech library
+gTTS==2.2.3
+
+# OpenAI API
+openai==0.27.0
+
+# Pi.ai API
+piai==0.3.1
+
+# Selenium for web automation
+selenium==3.141.0
+
+# Other dependencies (add as needed)
+# ...
+
+# Note: Make sure to check for the latest versions of these packages and update accordingly.
